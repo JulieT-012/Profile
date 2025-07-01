@@ -1,17 +1,18 @@
-[][Masterhead][https://imgs.search.brave.com/bfZmb-hQ6S529Zp5AU2VALhD2J8ffLzi57RSBQpYmXM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kaWdpdGFsLWFu/YWx5dGljcy1kYXNo/Ym9hcmQtd2l0aC1r/ZXktcGVyZm9ybWFu/Y2UtaW5kaWNhdG9y/cy0zZC1yZW5kZXJp/bmdfNjcwMTQ3LTY3/NTk3LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA]
+[][Masterhead](https://github.com/user-attachments/assets/6a5ce59c-a099-4861-b3e6-471a17553856)
+]
 
 <h1 align="center">Hi 👋, I'm Juliana Oyebamiji</h1>
 <h3 align="center">Data Analyst | Insight Seeker | Visualization Storyteller</h3>
 
 I'm a Data Analyst with hands-on experience in transforming raw data into actionable insights to support business strategy, operations, and decision-making. I specialize in SQL, Power BI, Excel, and business intelligence tools, with a strong foundation in data cleaning, analysis, and visualization.
 
-- 🔭 I’m currently working on **Developing interactive dashboards and case-based analytics projects that explore user behavior, business trends, and process optimization.**
+- 🔭 I’m currently working on developing interactive dashboards and case-based analytics projects that explore user behavior, business trends, and process optimization.
 
-- 🌱 I’m currently learning **I’m currently learning data analytics tools and techniques, focusing on transforming raw data into clear, actionable insights.**
+- 🌱 I’m currently learning data analytics tools and techniques, focusing on transforming raw data into clear, actionable insights.
 
-- 💬 Ask me about **Excel, Power BI, SQL**
+- 💬 Ask me about Excel, Power BI, SQL
 
-- 📫 How to reach me **oyebamijijuliana@gmail.com**
+- 📫 How to reach me oyebamijijuliana@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
