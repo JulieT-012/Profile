@@ -1,6 +1,4 @@
 [][Masterhead](https://github.com/user-attachments/assets/6a5ce59c-a099-4861-b3e6-471a17553856)
-]
-
 <h1 align="center">Hi 👋, I'm Juliana Oyebamiji</h1>
 <h3 align="center">Data Analyst | Insight Seeker | Visualization Storyteller</h3>
 
