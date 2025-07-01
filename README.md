@@ -1,5 +1,5 @@
 # Profile
-[https://imgs.search.brave.com/bfZmb-hQ6S529Zp5AU2VALhD2J8ffLzi57RSBQpYmXM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kaWdpdGFsLWFu/YWx5dGljcy1kYXNo/Ym9hcmQtd2l0aC1r/ZXktcGVyZm9ybWFu/Y2UtaW5kaWNhdG9y/cy0zZC1yZW5kZXJp/bmdfNjcwMTQ3LTY3/NTk3LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA][Masterhead]
+[][Masterhead](https://imgs.search.brave.com/bfZmb-hQ6S529Zp5AU2VALhD2J8ffLzi57RSBQpYmXM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kaWdpdGFsLWFu/YWx5dGljcy1kYXNo/Ym9hcmQtd2l0aC1r/ZXktcGVyZm9ybWFu/Y2UtaW5kaWNhdG9y/cy0zZC1yZW5kZXJp/bmdfNjcwMTQ3LTY3/NTk3LmpwZz9zZW10/PWFpc19oeWJyaWQm/dz03NDA)
 <h1 align="center">Hi 👋, I'm Juliana Oyebamiji</h1>
 <h3 align="center">Data Analyst | Insight Seeker | Visualization Storyteller</h3>
 
